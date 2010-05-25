@@ -4,7 +4,7 @@ Sessão do dia 25 de Maio de 2010
 Formato
 -------
 
-Kake Dojo[1] com MicroPairing[2] e Retrospectiva "Flash"[3].
+Kake Dojo[1] com MicroPairing[2] e Retrospectiva "Flash" (artigo a ser postado depois).
 
 Participantes
 -------------
@@ -20,8 +20,8 @@ Participantes
 
 Katas Resolvidos
 ----------------
-* FizzBuzz[4]
-* Roman Numeral Converter[5]
+* FizzBuzz[3]
+* Roman Numeral Converter[4]
 
 Avaliação das Soluções
 ----------------------
@@ -69,8 +69,7 @@ Ações de Retrospectiva
 * Infraestrutura (Sala, comida, planejamento) 
 
 Referências:
-1 - 
-2 - 
-3 - 
-4 -
-5 -
+# http://www.dtsato.com/blog/2008/10/29/uberdojo-sao-paulo-coding-dojo/
+# http://www.codingdojo.org/cgi-bin/wiki.pl?MicroPairing 
+# http://www.codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz
+# http://www.codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals
