@@ -56,8 +56,10 @@ Ações de Retrospectiva
 Referências
 -----------
 
-Links:
-# http://www.dtsato.com/blog/2008/10/29/uberdojo-sao-paulo-coding-dojo/
-# http://www.codingdojo.org/cgi-bin/wiki.pl?MicroPairing 
-# http://codingdojo.org/cgi-bin/wiki.pl?KataDictionaryReplacer
-# http://codingdojo.org/cgi-bin/wiki.pl?KataPotter
+#. http://www.dtsato.com/blog/2008/10/29/uberdojo-sao-paulo-coding-dojo/
+
+#. http://www.codingdojo.org/cgi-bin/wiki.pl?MicroPairing 
+
+#. http://codingdojo.org/cgi-bin/wiki.pl?KataDictionaryReplacer
+
+#. http://codingdojo.org/cgi-bin/wiki.pl?KataPotter
